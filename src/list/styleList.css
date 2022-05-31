@@ -1,0 +1,39 @@
+.list {
+  margin-left: 50px;
+  margin-top: 39px;
+  border: 1px solid rgb(221, 210, 210);
+  border-radius: 5px;
+  width: 560px;
+}
+.divResumoF {
+  display: flex;
+  flex-direction: row;
+}
+.h3Resumo {
+  margin-top: 15px;
+  margin-left: 26px;
+  margin-right: 158px;
+  font-size: 14px;
+  color: #212529;
+}
+.btnFiltro {
+  width: 69px;
+  height: 40px;
+  color: white;
+  background-color: #fd377e;
+  border-style: none;
+  margin: 5px;
+  padding: 15px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 8px;
+}
+.btnFiltro:hover {
+  cursor: pointer;
+  background-color: #da0855;
+}
+.vc {
+  margin-left: 26px;
+  color: #5b6166;
+}

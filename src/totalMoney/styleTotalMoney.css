@@ -1,0 +1,19 @@
+.divTotalMoney {
+  margin-left: 260px;
+  border: 1px solid rgb(221, 210, 210);
+  border-radius: 5px;
+  width: 361px;
+  height: 96px;
+  background-color: #fff;
+}
+.valorTotal {
+  margin-top: 35px;
+  margin-left: 26px;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 30px;
+}
+.spanValor {
+  color: #fd508e;
+  margin-left: 150px;
+}

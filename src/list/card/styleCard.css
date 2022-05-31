@@ -1,0 +1,36 @@
+.descricaoEvalor {
+  display: flex;
+  flex-direction: row;
+}
+.descricao {
+  margin-left: 26px;
+  color: #212529;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 30px;
+}
+.divDescricao {
+  width: 337px;
+  margin-right: 40px;
+}
+.descricaoEvalor {
+  width: 560px;
+}
+.tipo {
+  margin-left: 26px;
+  color: #5b6166;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 22px;
+}
+.colorida {
+  background-color: green;
+  width: 5px;
+  border-radius: 8px;
+}
+.imgTrash {
+  margin-top: 20px;
+  margin-left: 40px;
+  padding: 5px;
+  background-color: #e9ecef;
+}

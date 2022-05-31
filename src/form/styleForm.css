@@ -1,0 +1,59 @@
+.form {
+  border: 1px solid rgb(221, 210, 210);
+  border-radius: 5px;
+  width: 363px;
+  height: 351px;
+  background-color: #ffffff;
+  margin-top: 39px;
+  margin-left: 258px;
+}
+.btnInserir {
+  background-color: #fd377e;
+  /* margin-top: 183px; */
+}
+.descricao {
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 22px;
+  color: #212529;
+  margin-left: 26px;
+}
+.inputDescri {
+  margin-left: 26px;
+  padding: 16px;
+}
+.exCompra {
+  margin-left: 26px;
+  color: #868e96;
+}
+.divNumberEselect {
+  color: #212529;
+  margin-left: 26px;
+  display: flex;
+  flex-direction: row;
+
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 22px;
+}
+.inputNumber {
+  margin-top: 9px;
+  padding: 16px;
+  width: 120px;
+}
+.select {
+  margin-top: 9px;
+}
+.btnInserir {
+  margin-top: 30px;
+  margin-left: 26px;
+  height: 48px;
+  width: 314px;
+  border: none;
+  color: #ffffff;
+  border-radius: 8px;
+}
+.btnInserir:hover {
+  cursor: pointer;
+  background-color: #da0855;
+}
